@@ -46,3 +46,10 @@ pip3 install -r requirements.txt
 
 ## Notas / alcaraciones
 - Si usa `python3`/`pip3`, use esos comandos en lugar de `python`/`pip`.
+
+
+###  Ejecutar la Notebook
+
+Una vez instaladas las dependencias, puede iniciar la notebook `TpEsp.ipynb` utilizando su editor de código preferido (como VS Code, Jupyter Lab o Jupyter Notebook) para ver y ejecutar el análisis.
+
+> **Nota Importante:** Para una correcta ejecución y para evitar errores (como variables no definidas), las celdas de la notebook deben ejecutarse en orden secuencial, desde la primera hasta la última.
