@@ -4,6 +4,8 @@
 
 ## Autores : Rivera Tomas, Ferraro Bautista
 
+# Este repositorio contiene el Trabajo Especial para la materia Fundamentos de Ciencia de Datos. El proyecto consiste en un análisis completo del dataset "Horse Colic", aplicando el proceso de ciencia de datos de punta a punta: desde la adquisición y limpieza de los datos hasta la exploración, visualización y analisis de diferentes hipotesis con diferentes tecnicas.
+
 ## Requisitos
 - Python 3
 - pip
