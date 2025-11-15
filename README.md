@@ -4,6 +4,8 @@
 
 ## Autores : Rivera Tomas, Ferraro Bautista
 
+# Este repositorio contiene el Trabajo Especial para la materia Fundamentos de Ciencia de Datos. El proyecto consiste en un análisis completo del dataset "Horse Colic", aplicando el proceso de ciencia de datos de punta a punta: desde la adquisición y limpieza de los datos hasta la exploración, visualización y analisis de diferentes hipotesis con diferentes tecnicas.
+
 ## Requisitos
 - Python 3
 - pip
@@ -13,8 +15,8 @@
 Reemplace la URL por la del repositorio compartido por Moodle.
 
 ```bash
-git clone https://github.com/USUARIO/NOMBRE_DEL_REPO.git
-cd NOMBRE_DEL_REPO
+git clone https://github.com/tomasrivera10/tp_especial_grupo_11.git
+cd tp_especial_grupo_11
 ```
 
 Si no usa Git, puede descargar el ZIP desde GitHub y descomprimirlo.
@@ -44,3 +46,10 @@ pip3 install -r requirements.txt
 
 ## Notas / alcaraciones
 - Si usa `python3`/`pip3`, use esos comandos en lugar de `python`/`pip`.
+
+
+### 4. Ejecutar la Notebook
+
+Una vez instaladas las dependencias, puede iniciar la notebook `TpEsp.ipynb` utilizando su editor de código preferido (como VS Code, Jupyter Lab o Jupyter Notebook) para ver y ejecutar el análisis.
+
+> **Nota Importante:** Para una correcta ejecución y para evitar errores (como variables no definidas), las celdas de la notebook deben ejecutarse en orden secuencial, desde la primera hasta la última.
