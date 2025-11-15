@@ -13,8 +13,8 @@
 Reemplace la URL por la del repositorio compartido por Moodle.
 
 ```bash
-git clone https://github.com/USUARIO/NOMBRE_DEL_REPO.git
-cd NOMBRE_DEL_REPO
+git clone https://github.com/tomasrivera10/tp_especial_grupo_11.git
+cd tp_especial_grupo_11
 ```
 
 Si no usa Git, puede descargar el ZIP desde GitHub y descomprimirlo.
